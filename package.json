@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "script.js",
   "scripts": {
-    "start": "nodemon expressserver.js"
+    "start": "nodemon express-node.js"
   },
   "keywords": [],
   "author": "",
